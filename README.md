@@ -5,5 +5,5 @@ xor keeps track of the prefix XOR up to the current index.
 
 We use a HashMap to store the frequency of each prefix XOR.
 
-If prefix XOR ^ target exists in the map, it means a subarray ending at current index has XOR = target.
+If prefix XOR ^ target exists in the map, it means a subarray ending at current index has XOR = target...
 
